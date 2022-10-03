@@ -22,3 +22,4 @@ int string_ln(char*p) /* p=&str[0] */
    }
    return count;
 }
+s
